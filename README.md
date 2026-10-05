@@ -1,16 +1,27 @@
-## Hi there 👋
+# Dustin Strietzel
 
-<!--
-**dustinstrietzel/dustinstrietzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AWS Certified Solutions Architect – Associate** · building cloud infrastructure with Terraform
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I came to cloud from Law Enforcement and I'm now focused on
+infrastructure as code and AWS architecture. I build things end to end rather
+than from tutorials, and I write down why I chose what I chose.
+
+**Certifications**
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+
+**Working with**
+AWS · Terraform · Git · PowerShell · Linux (learning) · Python (learning)
+
+**Currently**
+- Building a three-tier AWS application entirely in Terraform — ALB, Auto Scaling
+  across two Availability Zones, RDS Multi-AZ. See
+  [aws-three-tier-terraform](https://github.com/dustinstrietzel/aws-three-tier-terraform).
+- Studying for the HashiCorp Terraform Associate (004).
+
+**Open to** cloud support, cloud operations and junior cloud engineering roles —
+remote or Denver area.
+
+📧 dustin.strietzel@outlook.com · https://www.linkedin.com/in/dustin-strietzel/
